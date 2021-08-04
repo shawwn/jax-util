@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "jax-util"
-version = "0.1.0"
+version = "0.2.0"
 readme = "README.md"
 homepage = "https://github.com/shawwn/jax-util"
 description = "jax/_src/util.py extracted as a standalone Python library"
